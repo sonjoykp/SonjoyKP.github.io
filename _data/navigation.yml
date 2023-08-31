@@ -1,13 +1,36 @@
 # main links links
 main:
-  # - title: "Education"
-  #   url: /education/
 
-  # - title: "Work Experience"
-  #   url: /experience/   
+  - title: "CV"
+    url: /files/CV_Sonjoy_Kumar_Paul.pdf
 
-  # - title: "Publications"
-  #   url: /publications/
+  - title: "Resume"
+    url: /files/Resume_Sonjoy_Kumar_Paul.pdf
+
+  - title: "Education"
+    url: /education/    
+
+  - title: "Experiences"
+    url: /experiences/
+
+  - title: "Skills"
+    url: /skills/  
+
+  #- title: "Publications"
+  #  url: /publications/
+
+  - title: "Projects"
+    url: /projects/
+
+  - title: "leadership"
+    url: /leadership/  
+
+  #- title: "Test Scores"
+  #  url: /standardized_test/            
+
+  - title: "Contact"
+    url: /contact/   
+  
 
   # - title: "Talks"
   #   url: /talks/    
@@ -26,5 +49,3 @@ main:
     
   # - title: "Guide"
   #   url: /markdown/
-
-  
