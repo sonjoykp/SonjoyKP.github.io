@@ -2,10 +2,10 @@
 main:
 
   - title: "CV"
-    url: /files/CV_Sonjoy_Kumar_Paul.pdf
+    url: /files/Sonjoy_Kumar_Paul_CV.pdf
 
-  - title: "Resume"
-    url: /files/Resume_Sonjoy_Kumar_Paul.pdf
+  # - title: "Resume"
+  #   url: /files/Resume_Sonjoy_Kumar_Paul.pdf
 
   - title: "Education"
     url: /education/    
