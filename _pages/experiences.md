@@ -10,7 +10,7 @@ author_profile: true
 
 ***
 Responsibilities:
--I've actively contributed to enhancing open-source serverless applications efficiency through GitHub commit analysis, identifying inefficiency patterns. This aids in creating a tool for automated detection and optimization suggestions, boosting serverless application performance. Additionally, I have been researching the GPU use for accelerated serverless functions, especially for compute-heavy tasks like deep learning and data processing. 
+- I've actively contributed to enhancing open-source serverless applications efficiency through GitHub commit analysis, identifying inefficiency patterns. This aids in creating a tool for automated detection and optimization suggestions, boosting serverless application performance. Additionally, I have been researching the GPU use for accelerated serverless functions, especially for compute-heavy tasks like deep learning and data processing. 
 
 ### Senior Software Engineer, [CodeCrafters International Ltd.](https://www.codecraftersintl.com)
 ### July 2022 - December 2022 | Dhaka, Bangladesh
