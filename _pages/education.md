@@ -16,11 +16,11 @@ author_profile: true
 > Dhaka, Bangladesh
 
 ### Higher-Secondary School Certificate (HSC) 
-> Govt. Mahatab Uddin Degree College (2010-2012) <br>
+> Government Mahtab Uddin Degree College (2010-2012) <br>
 >
 > Kaliganj, Jhenaidah, Bangladesh
 
 ### Secondary School Certificate (SSC) 
-> Chaprail High School (2008-2010) <br>
+> Chaprail Secondary School (2008-2010) <br>
 >
 > Kaliganj, Jhenaidah, Bangladesh
