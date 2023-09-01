@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "Analyzing co-authorship network: Centrality Measure, Link Prediction, and Community Detection"
 collection: projects
 permalink: /projects/AnalyzingCoauthorship2020
@@ -53,4 +53,4 @@ links or recommend new links in a network. For this step, tasks include:
 
 The objective of community detection is to partition the network
 into a set of connected components (communities) such that nodes in the same community are
-more similar (connected) to each other compared to those belonging to different communities.
+more similar (connected) to each other compared to those belonging to different communities. -->
