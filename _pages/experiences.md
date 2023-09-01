@@ -6,7 +6,7 @@ author_profile: true
 
 
 ### Graduate Student Research Assistant, [University of Michigan-Dearborn (CIS)](https://umdearborn.edu/cecs/departments/computer-and-information-science)
-### January 2023 - Present | Dearborn, Michigan
+#### January 2023 - Present | Dearborn, Michigan
 
 ***
 Responsibilities:

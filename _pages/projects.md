@@ -7,24 +7,15 @@ author_profile: true
 
 ### Configuring Hadoop Cluster and Executing Big Data Applications with Apache Spark
 ***
-- This project aims to configure a Hadoop cluster with Apache Hadoop as the underlying file system and Apache Spark as the
-execution engine. The main objective is to develop and run various small-scale applications utilizing the power of
-Hadoop and Spark. The project involves setting up the necessary infrastructure, configuring the cluster, and
-implementing several applications to leverage the capabilities of these technologies for handling big data efficiently.
+- This project aims to configure a Hadoop cluster with Apache Hadoop as the underlying file system and Apache Spark as the execution engine. The main objective is to develop and run various small-scale applications utilizing the power of Hadoop and Spark. The project involves setting up the necessary infrastructure, configuring the cluster, and implementing several applications to leverage the capabilities of these technologies for handling big data efficiently.
 
 ### Enhancing Vending Machine Application with Microservices and Containerization
 ***
-- This project uses microservices architecture and containerization to improve a vending machine application. By replacing the weather
-selection mechanism, creating a new microservice for beverage preferences, and updating relevant functions, the
-project aims to optimize the vending machine application. The utilization of containerization, specifically Docker,
-facilitates seamless deployment and management of the application, enabling easier scaling and maintenance.
+- This project uses microservices architecture and containerization to improve a vending machine application. By replacing the weather selection mechanism, creating a new microservice for beverage preferences, and updating relevant functions, the project aims to optimize the vending machine application. The utilization of containerization, specifically Docker, facilitates seamless deployment and management of the application, enabling easier scaling and maintenance.
 
 ### AI-Powered Reversi Game
 ***
-- This project focuses on developing an Artificial Intelligence (AI)-based Reversi game,
-featuring a visually appealing and interactive game interface created using Java Swing. The game employs the
-powerful alpha-beta pruning algorithm, enabling the computer player to intelligently determine its next move,
-resulting in a challenging and strategic gameplay experience for users.
+- This project focuses on developing an Artificial Intelligence (AI)-based Reversi game, featuring a visually appealing and interactive game interface created using Java Swing. The game employs the powerful alpha-beta pruning algorithm, enabling the computer player to intelligently determine its next move, resulting in a challenging and strategic gameplay experience for users.
 
 ### 4-bit Computer System Design
 ***
@@ -32,16 +23,8 @@ resulting in a challenging and strategic gameplay experience for users.
 
 ### Hall Management System
 ***
-- The project involved the development of a comprehensive system for the university
-hall office, which included a desktop application with a Java Swing interface for efficient information management. In
-addition, a web application was created using the Laravel framework, ensuring seamless accessibility and advanced
-features. Both applications were integrated with a MySQL database to ensure reliable data storage and retrieval,
-facilitating streamlined administrative processes and enhancing overall efficiency.
+- The project involved the development of a comprehensive system for the university hall office, which included a desktop application with a Java Swing interface for efficient information management. In addition, a web application was created using the Laravel framework ensuring seamless accessibility and advanced features. Both applications were integrated with a MySQL database to ensure reliable data storage and retrieval, facilitating streamlined administrative processes and enhancing overall efficiency.
 
 ### 29 Card Game
 ***
-- The project involved implementing a 29-card game using Java Multi-threading, enabling
-concurrent execution of multiple tasks and efficient gameplay. The game’s server-client communication was
-implemented using Java Socket Programming, ensuring reliable and real-time interaction between players. This
-approach facilitated seamless communication and synchronization between the game server and connected clients,
-enhancing the overall multiplayer gaming experience.
+- The project involved implementing a 29-card game using Java Multi-threading, enabling concurrent execution of multiple tasks and efficient gameplay. The game’s server-client communication was implemented using Java Socket Programming, ensuring reliable and real-time interaction between players. This approach facilitated seamless communication and synchronization between the game server and connected clients, enhancing the overall multiplayer gaming experience.

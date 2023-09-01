@@ -8,5 +8,5 @@ author_profile: true
 
 * <b>Programming Languages</b>: C, C++, Python, Java, JavaScript.
 * <b>Database</b>: Object-Oriented Database, Apache Cassandra, PostgreSQL. 
-* <b>Framework</b>: Spring Boot, Serverless
+* <b>Framework</b>: Spring Boot, Serverless, CUDA.
 * <b>Cloud Computing</b>: AWS, Apache Hadoop, Apache Spark.
