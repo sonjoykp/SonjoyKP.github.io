@@ -9,6 +9,11 @@ author_profile: true
 ***
 - This project aims to configure a Hadoop cluster with Apache Hadoop as the underlying file system and Apache Spark as the execution engine. The main objective is to develop and run various small-scale applications utilizing the power of Hadoop and Spark. The project involves setting up the necessary infrastructure, configuring the cluster, and implementing several applications to leverage the capabilities of these technologies for handling big data efficiently.
 
+### User Folder Migration
+***
+- Created a user folder migration functionality enabling 200 clients to seamlessly transition their thousands of user reports, graphs, imports, and other user components to a new folder structure. This transition occurred without any disruptions to ongoing scheduled tasks, batch processes, and favorite items. 
+
+- Employing a Blue-green deployment strategy, we initially launched the feature within our internal system, meticulously assessing its impact due to its magnitude. Subsequently, we executed a gradual release for clients, ensuring a controlled and effective integration.
 ### Enhancing Vending Machine Application with Microservices and Containerization
 ***
 - This project uses microservices architecture and containerization to improve a vending machine application. By replacing the weather selection mechanism, creating a new microservice for beverage preferences, and updating relevant functions, the project aims to optimize the vending machine application. The utilization of containerization, specifically Docker, facilitates seamless deployment and management of the application, enabling easier scaling and maintenance.
