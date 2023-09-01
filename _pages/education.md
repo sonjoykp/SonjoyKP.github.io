@@ -4,19 +4,19 @@ permalink: /education/
 author_profile: true
 ---
 
-### M.S. in Computer and Information Science  
-> University of Michigan-Dearborn (Spring 2023 - Present) <br>
+### Ph.D. in Computer and Information Science
+> [University of Michigan-Dearborn](https://umdearborn.edu/) (Spring 2023 - Present) <br>
 > 
 > Michigan, USA
 
  
 ### B.Sc. in Computer Science and Engineering 
-> Bangladesh University of Engineering and Technology(BUET) (2013-2017) <br>
+> [Bangladesh University of Engineering and Technology(BUET)](https://buet.ac.bd) (2013-2017) <br>
 >
 > Dhaka, Bangladesh
 
 ### Higher-Secondary School Certificate (HSC) 
-> Government Mahtab Uddin Degree College (2010-2012) <br>
+> Govt. Mahtab Uddin Degree College (2010-2012) <br>
 >
 > Kaliganj, Jhenaidah, Bangladesh
 
