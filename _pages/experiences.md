@@ -13,7 +13,7 @@ Responsibilities:
 - I've actively contributed to enhancing open-source serverless applications efficiency through GitHub commit analysis, identifying inefficiency patterns. This aids in creating a tool for automated detection and optimization suggestions, boosting serverless application performance. Additionally, I have been researching the GPU use for accelerated serverless functions, especially for compute-heavy tasks like deep learning and data processing. 
 
 ### Senior Software Engineer, [CodeCrafters International Ltd.](https://www.codecraftersintl.com)
-### July 2022 - December 2022 | Dhaka, Bangladesh
+#### July 2022 - December 2022 | Dhaka, Bangladesh
 
 ***
 Responsibilities:
@@ -22,7 +22,7 @@ Responsibilities:
 
 
 ### Software Engineer, [CodeCrafters International Ltd.](https://www.codecraftersintl.com)
-### July 2019 - June 2022 | Dhaka, Bangladesh
+#### July 2019 - June 2022 | Dhaka, Bangladesh
 ***
 Responsibilities:
 - Successfully worked with a proprietary software framework, comprising 2 million lines of C++ code.
@@ -37,7 +37,7 @@ Responsibilities:
 - Developed and utilized an issue/job management platform named ClientScope.
 
 ### Software Developer, [CodeCrafters International Ltd.](https://www.codecraftersintl.com)
-### January 2018 - June 2019 | Dhaka, Bangladesh
+#### January 2018 - June 2019 | Dhaka, Bangladesh
 
 ***
 Responsibilities:
