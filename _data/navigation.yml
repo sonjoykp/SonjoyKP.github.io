@@ -21,12 +21,15 @@ main:
 
   - title: "Projects"
     url: /projects/
+   
+  - title: "Undergraduate Thesis"
+    url: /files/Solving_Sudoku_as_a_Constraint_Satisfaction_Problem_Ugrad_Thesis.pdf
 
   - title: "Leadership"
-    url: /leadership/  
+    url: /leadership/ 
 
   #- title: "Test Scores"
-  #  url: /standardized_test/            
+  #  url: /standardized_test/      
 
   - title: "Contact"
     url: /contact/   
