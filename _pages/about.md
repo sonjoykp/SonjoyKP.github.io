@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm [Sonjoy Kumar Paul](https://www.linkedin.com/in/sonjoyp/), a Graduate Student Research Assistant in the [Department of Computer and Information Science at the University of Michigan-Dearborn](https://umdearborn.edu/cecs/departments/computer-and-information-science). My research interests include Software Engineering, High-Performance Computing, Distributed Systems & Cloud Computing.
+I'm [Sonjoy Kumar Paul](https://www.linkedin.com/in/sonjoykp/), a Graduate Student Research Assistant in the [Department of Computer and Information Science at the University of Michigan-Dearborn](https://umdearborn.edu/cecs/departments/computer-and-information-science). My research interests include Software Engineering, High-Performance Computing, Distributed Systems & Cloud Computing.
 
 Previously, I worked for 5 years as a C++ software engineer at [CodeCrafters International Ltd.](https://www.codecraftersintl.com/), where I gained extensive experience in large-scale portfolio management and credit analysis software. I had the opportunity to work on complex projects with a codebase of over 2 million lines. I have expertise in code review, software development, and implementing efficient data structures.
 
