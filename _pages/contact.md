@@ -5,7 +5,7 @@ author_profile: true
 ---
 #### Email:
 
-* <b>Work e-mail</b>: sonjoyp@umich.edu, 1205079.skp@ugrad.cse.buet.ac.bd
+* <b>Work e-mail</b>: skpaul@tamu.edu
 * <b>Personal e-mail</b>: sonjoy.k.paul@gmail.com
 
 #### Mobile-No.:
@@ -14,4 +14,4 @@ author_profile: true
 
 #### Address:
 
-* 8265 Valley View Cir, Westland, Michigan, USA
+* L.F. Peterson Building, 435 Nagle St, College Station, TX 77843
