@@ -12,7 +12,7 @@ I'm [Sonjoy Kumar Paul](https://www.linkedin.com/in/sonjoykp/), an incoming Ph.D
 
 Previously, I worked for 5 years as a C++ software engineer at [CodeCrafters International Ltd.](https://www.codecraftersintl.com/), where I gained extensive experience in large-scale portfolio management and credit analysis software. I had the opportunity to work on complex projects with a codebase of over 2 million lines. I have expertise in code review, software development, and implementing efficient data structures.
 
-Furthermore, I hold a Bachelor's Degree in Computer Science and Engineering from [Bangladesh University of Engineering and Technology (BUET)](https://www.buet.ac.bd/), Dhaka, Bangladesh. In addition to C++ and C, my top skills include software engineering principles and system design. I am passionate about creating efficient and robust solutions through my expertise in these areas.
+Furthermore, I hold a Bachelor's Degree in Computer Science and Engineering from [Bangladesh University of Engineering and Technology (BUET)](https://www.buet.ac.bd/), Dhaka, Bangladesh. In addition to C++ and C, my top skills include software engineering principles and system design.
 
 
 
