@@ -4,10 +4,15 @@ permalink: /education/
 author_profile: true
 ---
 
-### Ph.D. in Computer and Information Science
-> [University of Michigan-Dearborn](https://umdearborn.edu/) (Spring 2023 - Present) <br>
+### Ph.D. in Computer Science
+> [Texas A&M University](https://engineering.tamu.edu/cse/index.html) (January 2023 - December 2023) [Transfer In] <br>
 > 
-> Michigan, USA
+> College Station, Texas, USA
+
+### Ph.D. in Computer and Information Science
+> [University of Michigan-Dearborn](https://umdearborn.edu/) (January 2023 - December 2023) [Transfer Out] <br>
+> 
+> Dearborn, Michigan, USA
 
  
 ### B.Sc. in Computer Science and Engineering 
