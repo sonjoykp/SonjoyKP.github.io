@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 ### Ph.D. in Computer Science
-> [Texas A&M University](https://engineering.tamu.edu/cse/index.html) (January 2023 - December 2023) [Transfer In] <br>
+> [Texas A&M University](https://engineering.tamu.edu/cse/index.html) (January 2024 - Present) [Transfer In] <br>
 > 
 > College Station, Texas, USA
 
@@ -14,9 +14,8 @@ author_profile: true
 > 
 > Dearborn, Michigan, USA
 
- 
 ### B.Sc. in Computer Science and Engineering 
-> [Bangladesh University of Engineering and Technology(BUET)](https://buet.ac.bd) (2013-2017) <br>
+> [Bangladesh University of Engineering and Technology(BUET)](https://buet.ac.bd) (2013- 2017) <br>
 >
 > Dhaka, Bangladesh
 
