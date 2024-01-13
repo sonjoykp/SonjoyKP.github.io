@@ -4,13 +4,19 @@ permalink: /experiences/
 author_profile: true
 ---
 
-
-### Graduate Student Research Assistant, [University of Michigan-Dearborn (CIS)](https://umdearborn.edu/cecs/departments/computer-and-information-science)
-#### January 2023 - Present | Dearborn, Michigan
+### Graduate Assistant - Research, [Texas A&M University](https://tamu.edu)
+#### January 2024 - Present | College Station, Texas
 
 ***
 Responsibilities:
-- I've actively contributed to enhancing open-source serverless applications efficiency through GitHub commit analysis, identifying inefficiency patterns. This aids in creating a tool for automated detection and optimization suggestions, boosting serverless application performance. Additionally, I have been researching the GPU use for accelerated serverless functions, especially for compute-heavy tasks like deep learning and data processing. 
+- I am a Ph.D. student at Texas A&M University, advised by Dr. [Nitesh Saxena](https://nsaxena.engr.tamu.edu/) at the [SPIES](https://spies.engr.tamu.edu/) research lab. My research focuses on Cybersecurity.
+
+### Graduate Student Research Assistant, [University of Michigan-Dearborn](https://umdearborn.edu/cecs/departments/computer-and-information-science)
+#### January 2023 - December 2023 | Dearborn, Michigan
+
+***
+Responsibilities:
+- I actively contributed to enhancing open-source serverless applications efficiency through GitHub commit analysis, identifying inefficiency patterns. This aids in creating a tool for automated detection and optimization suggestions, boosting serverless application performance. Additionally, I worked on improving the GPU use for accelerated serverless functions, especially for compute-heavy tasks like deep learning and data processing. 
 
 ### Senior Software Engineer, [CodeCrafters International Ltd.](https://www.codecraftersintl.com)
 #### July 2022 - December 2022 | Dhaka, Bangladesh
