@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm [Sonjoy Kumar Paul](https://www.linkedin.com/in/sonjoykp/), an incoming Ph.D. student at [Department of Computer Science & Engineering, Texas A&M University](https://engineering.tamu.edu/cse/index.html).
+I'm [Sonjoy Kumar Paul](https://www.linkedin.com/in/sonjoykp/), a Ph.D. student in the [Department of Computer Science and Engineering at Texas A&M University](https://engineering.tamu.edu/cse/index.html). My research interests include Cybersecurity and Cryptography.
 
 Previously, I worked for 5 years as a C++ software engineer at [CodeCrafters International Ltd.](https://www.codecraftersintl.com/), where I gained extensive experience in large-scale portfolio management and credit analysis software. I had the opportunity to work on complex projects with a codebase of over 2 million lines. I have expertise in code review, software development, and implementing efficient data structures.
 
