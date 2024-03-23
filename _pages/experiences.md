@@ -9,7 +9,7 @@ author_profile: true
 
 ***
 Responsibilities:
-- I am a Ph.D. student at Texas A&M University, advised by Dr. [Nitesh Saxena](https://nsaxena.engr.tamu.edu/) at the [SPIES](https://spies.engr.tamu.edu/) research lab. My research focuses on Cybersecurity.
+- I am currently working under the guidance of [Dr. Nitesh Saxena](https://nsaxena.engr.tamu.edu/) at the [SPIES](https://spies.engr.tamu.edu/) research lab. My research is centered around Neuro Security and Brainwave Privacy.
 
 ### Graduate Student Research Assistant, [University of Michigan-Dearborn](https://umdearborn.edu/cecs/departments/computer-and-information-science)
 #### January 2023 - December 2023 | Dearborn, Michigan
