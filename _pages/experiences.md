@@ -9,7 +9,11 @@ author_profile: true
 
 ***
 Responsibilities:
-- I am currently working under the guidance of [Dr. Nitesh Saxena](https://nsaxena.engr.tamu.edu/) at the [SPIES](https://spies.engr.tamu.edu/) research lab. My research is centered around Neuro Security and Brainwave Privacy.
+- I am currently working under the guidance of [Dr. Nitesh Saxena](https://nsaxena.engr.tamu.edu/) at the [SPIES Research Lab](https://spies.engr.tamu.edu/).
+- Conducting advanced research in Neuro Security and Brainwave Privacy.
+- Investigating various privacy attacks and defenses on Brain-Computer Interface (BCI) devices.
+- Engaging in experimental design, data analysis, and the development of new methodologies to enhance the security of BCI devices.
+
 
 ### Graduate Student Research Assistant, [University of Michigan-Dearborn](https://umdearborn.edu/cecs/departments/computer-and-information-science)
 #### January 2023 - December 2023 | Dearborn, Michigan
