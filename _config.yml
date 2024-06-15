@@ -11,9 +11,9 @@ title                    : "Sonjoy's Home Page"
 title_separator          : "-"
 name                     : &name "Sonjoy Kumar Paul"
 description              : &description "personal description"
-url                      : https://sonjoykp.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://sonjoy-k-paul.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "sonjoykp/sonjoykp.github.io"
+repository               : "sonjoy-k-paul/sonjoy-k-paul.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "sonjoykp"
+  github           : "sonjoy-k-paul"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "sonjoykp"
+  linkedin         : "sonjoy-k-paul"
   orcid            : "https://orcid.org/0009-0009-5598-3677"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "sonjoykp"
+  twitter          : "sonjoy_k_paul"
   vine             :
   weibo            :
   xing             :
