@@ -11,9 +11,9 @@ title                    : "Sonjoy's Home Page"
 title_separator          : "-"
 name                     : &name "Sonjoy Kumar Paul"
 description              : &description "personal description"
-url                      : https://sonjoy-k-paul.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://SonjoyKP.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "sonjoy-k-paul/sonjoy-k-paul.github.io"
+repository               : "SonjoyKP/SonjoyKP.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &sonjoy_k_paul
 facebook:
   username               :
   app_id                 :
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Sonjoy Kumar Paul"
   avatar           : "Sonjoy-Casual.jpg"
-  bio              : "Ph.D. Student | Graduate Assistant - Research"
+  bio              : "Ph.D. Student"
   location         : "College Station, Texas"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "sonjoy-k-paul"
+  github           : "SonjoyKP"
   google_plus      :
   keybase          :
   instagram        :
