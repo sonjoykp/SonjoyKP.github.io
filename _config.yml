@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &sonjoy_k_paul
+  username               : &SonjoyKP
 facebook:
   username               :
   app_id                 :
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Sonjoy Kumar Paul"
   avatar           : "Sonjoy-Casual.jpg"
-  bio              : "Ph.D. Student"
+  bio              : "Computer Science Ph.D. Student"
   location         : "College Station, Texas"
-  employer         :
+  employer         : "Texas A&M University"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "skpaul@tamu.edu"
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "sonjoy-k-paul"
+  linkedin         : "SonjoyKP"
   orcid            : "https://orcid.org/0009-0009-5598-3677"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "sonjoy_k_paul"
+  twitter          : "SonjoyKP"
   vine             :
   weibo            :
   xing             :
