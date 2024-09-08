@@ -16,14 +16,14 @@ Furthermore, I hold a Bachelor's Degree in Computer Science and Engineering from
 
 ## News
 
-- **January 2024**: Embarked on my Ph.D. journey in Computer Science at [Texas A&M University](https://www.tamu.edu/), focusing on Neuro Security and Brainwave Privacy under the guidance of [Dr. Nitesh Saxena](https://nsaxena.engr.tamu.edu/).
+- **January, 2024**: Embarked on my Ph.D. journey in Computer Science at [Texas A&M University](https://www.tamu.edu/), focusing on Neuro Security and Brainwave Privacy under the guidance of [Dr. Nitesh Saxena](https://nsaxena.engr.tamu.edu/).
   
-- **July 2022**: Promoted to Senior Software Engineer at [CodeCrafters International Ltd](https://codecraftersintl.com/).
+- **July, 2022**: Promoted to Senior Software Engineer at [CodeCrafters International Ltd](https://codecraftersintl.com/).
 
-- **July 2019**: Advanced to Software Engineer at [CodeCrafters International Ltd](https://codecraftersintl.com/), contributing to critical system enhancements and performance optimization.
+- **July, 2019**: Advanced to Software Engineer at [CodeCrafters International Ltd](https://codecraftersintl.com/), contributing to critical system enhancements and performance optimization.
 
-- **January 2018**: Began my professional career as a Software Developer at [CodeCrafters International Ltd](https://codecraftersintl.com/), focusing on financial software solutions.
+- **January, 2018**: Began my professional career as a Software Developer at [CodeCrafters International Ltd](https://codecraftersintl.com/), focusing on financial software solutions.
 
-- **September 2017**: Graduated with a Bachelor's degree from the [Department of Computer Science and Engineering (CSE), BUET](https://cse.buet.ac.bd/).
+- **September, 2017**: Graduated with a Bachelor's degree from the [Department of Computer Science and Engineering (CSE), BUET](https://cse.buet.ac.bd/).
 
-- **February 2012**: Enrolled in the Bachelor's program in Computer Science and Engineering at [Bangladesh University of Engineering and Technology (BUET)](https://buet.ac.bd/), marking the beginning of my academic journey in computer science.
+- **February, 2012**: Enrolled in the Bachelor's program in Computer Science and Engineering at [Bangladesh University of Engineering and Technology (BUET)](https://buet.ac.bd/), marking the beginning of my academic journey in computer science.
