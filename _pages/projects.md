@@ -7,57 +7,54 @@ author_profile: true
 
 ### 1. Machine Learning-Based Malware Detection and Attack Challenge
 
-**Overview:**
+Overview:
 This project involved a multi-stage challenge focused on developing and testing machine learning models for malware detection and creating evasive malware binaries to test the robustness of these models. The challenge was divided into defensive and offensive roles, with teams of three members each participating in both.
 
 **Defender's Challenge Specifications:**
 
-**Deliverable:** 
+*Deliverable:* 
 - A self-contained Docker image with a model that can be queried via HTTP requests.
 
-**Goals:**
+*Goals:*
 - False Positive Rate (FPR): 1%
 - True Positive Rate (TPR): 95%
 
-**Constraints:**
+*Constraints:*
 - Maximum memory usage: 1 GB RAM
 - Response time: 5 seconds per sample
 - Timeouts will be considered evasions.
 
 **Attacker's Challenge Specifications:**
 
-**Deliverable:**
+*Deliverable:*
 - Evasive malware binaries designed to bypass detection models.
 
-**Goals:**
+*Goals:*
 - Evade as many models as possible.
 
-**Constraints:**
+*Constraints:*
 - Maximum file size for appended data: 5MB
 - The evasive sample's execution in the sandbox must be equivalent to the original sample.
 
-**Project Stages:**
+*Project Stages:*
 
-1. **Black Box Defense:**
-   - Teams developed machine learning models without any knowledge of the attack strategies used by the attackers. These models were then tested against a variety of malware samples to measure their effectiveness.
+   - Black Box Defense: Teams developed machine learning models without any knowledge of the attack strategies used by the attackers. These models were then tested against a variety of malware samples to measure their effectiveness.
 
-2. **White Box Defense:**
-   - Teams refined their models with full knowledge of the attack strategies. This allowed for more targeted improvements in detection capabilities.
 
-3. **Black Box Attack:**
-   - Teams created evasive malware binaries without knowing the specifics of the defense models. The goal was to evade as many detection models as possible with these binaries.
+   - White Box Defense: Teams refined their models with full knowledge of the attack strategies. This allowed for more targeted improvements in detection capabilities.
 
-4. **White Box Attack:**
-   - Teams developed evasive strategies with full knowledge of the defense models' architecture and methods. This stage tested the limits of model robustness and adaptability.
+   - Black Box Attack: Teams created evasive malware binaries without knowing the specifics of the defense models. The goal was to evade as many detection models as possible with these binaries.
 
-**Team Composition and Challenge Execution:**
+   - White Box Attack: Teams developed evasive strategies with full knowledge of the defense models' architecture and methods. This stage tested the limits of model robustness and adaptability.
+
+*Team Composition and Challenge Execution:*
 - Seven teams participated, each consisting of three members.
 - The challenge required a balance of innovation in machine learning model development and creativity in devising effective evasion techniques.
 
-**Results:**
+*Results:*
 The challenge successfully demonstrated the dynamic interplay between malware detection and evasion tactics, highlighting the importance of continuous improvement in cybersecurity measures. Teams showcased their ability to develop sophisticated models and adaptive evasion strategies within the given constraints, contributing valuable insights to the field of machine learning-based malware detection.
 
-**Project URL:** [Machine Learning-Based Malware Detection and Attack Challenge](https://github.com/gnat-n/-ml-based-malware-defender-and-attack)
+*Project URL:* [Machine Learning-Based Malware Detection and Attack Challenge](https://github.com/gnat-n/-ml-based-malware-defender-and-attack)
 
 ### 2. Configuring Hadoop Cluster and Executing Big Data Applications with Apache Spark
 ***
