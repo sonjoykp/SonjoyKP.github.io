@@ -27,8 +27,8 @@ main:
   - title: "Projects"
     url: /projects/
    
-  - title: "Undergraduate Thesis"
-    url: /files/Solving_Sudoku_as_a_Constraint_Satisfaction_Problem_Ugrad_Thesis.pdf
+  #- title: "Undergraduate Thesis"
+  #  url: /files/Solving_Sudoku_as_a_Constraint_Satisfaction_Problem_Ugrad_Thesis.pdf
 
   - title: "Leadership"
     url: /leadership/ 
