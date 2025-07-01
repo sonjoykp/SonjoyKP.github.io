@@ -21,7 +21,7 @@ repository               : "SonjoyKP/SonjoyKP.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "sonjoy-tamu.jpg"
+  avatar           : "sonjoy.jpeg"
   name             : "Sonjoy Kumar Paul"
   pronouns         : # example: "she/her"  
   bio              : "Computer Science Ph.D. Student"
