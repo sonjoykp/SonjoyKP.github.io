@@ -21,8 +21,8 @@ main:
   - title: "Skills"
     url: /skills/  
 
-  #- title: "Publications"
-  #  url: /publications/
+  - title: "Publications"
+    url: /publications/
 
   - title: "Projects"
     url: /projects/

@@ -15,8 +15,9 @@ Previously, I worked for 5 years as a C++ software engineer at [CodeCrafters Int
 Furthermore, I hold a Bachelor's Degree in Computer Science and Engineering from [Bangladesh University of Engineering and Technology (BUET)](https://www.buet.ac.bd/), Dhaka, Bangladesh. In addition to C++ and C, my top skills include software engineering principles and system design.
 
 ## News
+- **September, 2025:** Our paper *"Infrastructure Patterns in Toll Scam Domains: A Comprehensive Analysis of Cybercriminal Registration and Hosting Strategies"* has been accepted to **APWG’s Symposium on Electronic Crime Research (eCrime 2025)**.
 
-- **January, 2024**: Embarked on my Ph.D. journey in Computer Science at [Texas A&M University](https://www.tamu.edu/), focusing on Neuro Security and Brainwave Privacy under the guidance of [Dr. Nitesh Saxena](https://nsaxena.engr.tamu.edu/).
+- **January, 2024**: Started on my Ph.D. journey in Computer Science at [Texas A&M University](https://www.tamu.edu/), focusing on Neuro Security and Brainwave Privacy under the guidance of [Dr. Nitesh Saxena](https://nsaxena.engr.tamu.edu/).
   
 - **July, 2022**: Promoted to Senior Software Engineer at [CodeCrafters International Ltd](https://codecraftersintl.com/).
 
