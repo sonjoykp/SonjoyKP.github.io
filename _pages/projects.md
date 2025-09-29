@@ -21,7 +21,7 @@ author_profile: true
 - Evaluated with **3 optimizers** (AdamW, SGD, Adam).  
 - Trained on **CC3M subset (100k)**; validated on MSCOCO & ImageNet.  
 - Results showed **CyCLIP with AdamW** achieved best average performance (16.9%).  
-- **Dataset:** CC3M, MSCOCO, ImageNet:contentReference[oaicite:0]{index=0}
+- **Dataset:** CC3M, MSCOCO, ImageNet
 
 ---
 
@@ -33,7 +33,7 @@ author_profile: true
 **Homework 3:** Logistic Regression & MNIST Classification  
 - Proved convexity of regularized logistic regression objective.  
 - Derived Lagrange dual for distributionally robust optimization.  
-- Built **multi-class logistic regression model** for MNIST with minibatch SGD, tested weight decay, and analyzed overfitting:contentReference[oaicite:2]{index=2}.  
+- Built **multi-class logistic regression model** for MNIST with minibatch SGD, tested weight decay, and analyzed overfitting.  
 
 ---
 
@@ -41,7 +41,7 @@ author_profile: true
 - **Tokenization & Byte-Pair Encoding:** Built subword vocabulary from text corpus.  
 - **Positional Encoding:** Constructed and visualized sinusoidal positional encodings.  
 - **Advanced Text Classification:** Built CNN and fine-tuned BERT on Yelp Reviews dataset with GloVe embeddings.  
-- **Seq2Seq with LSTM:** Implemented encoder-decoder with attention for Quora Question Pairs, with GloVe initialization and text generation:contentReference[oaicite:3]{index=3}.  
+- **Seq2Seq with LSTM:** Implemented encoder-decoder with attention for Quora Question Pairs, with GloVe initialization and text generation.  
 
 ---
 
@@ -51,7 +51,7 @@ author_profile: true
 - **Format-String Attacks:** Crafted malicious `printf` payloads for information leaks.  
 - **Memory Protection (Bound Checking, CFI, SFI):** Implemented runtime defenses.  
 - **Fuzz Testing & Symbolic Execution:** Used fuzzers and symbolic execution tools to find vulnerabilities.  
-- **Malware Analysis:** Reverse-engineered and analyzed malicious binaries:contentReference[oaicite:4]{index=4}.  
+- **Malware Analysis:** Reverse-engineered and analyzed malicious binaries.  
 
 ---
 
