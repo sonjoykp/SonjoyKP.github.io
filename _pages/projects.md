@@ -26,11 +26,11 @@ author_profile: true
 ---
 
 ### 3. Deep Learning Coursework Projects
-**Homework 2:** Regression and Optimization  
+**Regression and Optimization**  
 - Ridge Regression & Lasso on **E2006-tfidf dataset**, with cross-validation and error curve analysis.  
-- Implemented **SGD for Logistic Regression** with step decay, cosine decay, and polynomial decay learning rate schedules:contentReference[oaicite:1]{index=1}.  
+- Implemented **SGD for Logistic Regression** with step decay, cosine decay, and polynomial decay learning rate schedules.  
 
-**Homework 3:** Logistic Regression & MNIST Classification  
+**Logistic Regression & MNIST Classification**
 - Proved convexity of regularized logistic regression objective.  
 - Derived Lagrange dual for distributionally robust optimization.  
 - Built **multi-class logistic regression model** for MNIST with minibatch SGD, tested weight decay, and analyzed overfitting.  
