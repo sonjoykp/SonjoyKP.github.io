@@ -3,85 +3,96 @@ title: "Projects"
 permalink: /projects/
 author_profile: true
 ---
-## Academic/Professional Projects:
+
+## Academic/Professional Projects
 
 ### 1. Machine Learning-Based Malware Detection and Attack Challenge
+*Multi-stage challenge on ML-based malware detection and adversarial evasion attacks.*  
+- Built ML models for malware detection with strict constraints (≤1GB RAM, ≤5s response).  
+- Developed evasive malware binaries to bypass detection, testing robustness of defense models.  
+- Explored both black-box and white-box attack/defense strategies.  
+- **URL:** [GitHub Repository](https://github.com/gnat-n/-ml-based-malware-defender-and-attack)
 
-Overview:
-This project involved a multi-stage challenge focused on developing and testing machine learning models for malware detection and creating evasive malware binaries to test the robustness of these models. The challenge was divided into defensive and offensive roles, with teams of three members each participating in both.
+---
 
-**Defender's Challenge Specifications:**
+### 2. Improving CLIP Training (CSCE636 Deep Learning Project)
+*Deep Learning project on Contrastive Language-Image Pretraining (CLIP).*  
+- Implemented and compared **5 loss functions** (CLIP, SogCLR, CyCLIP, VICReg, OnlineCLR).  
+- Evaluated with **3 optimizers** (AdamW, SGD, Adam).  
+- Trained on **CC3M subset (100k)**; validated on MSCOCO & ImageNet.  
+- Results showed **CyCLIP with AdamW** achieved best average performance (16.9%).  
+- **Dataset:** CC3M, MSCOCO, ImageNet:contentReference[oaicite:0]{index=0}
 
-*Deliverable:* 
-- A self-contained Docker image with a model that can be queried via HTTP requests.
+---
 
-*Goals:*
-- False Positive Rate (FPR): 1%
-- True Positive Rate (TPR): 95%
+### 3. Deep Learning Coursework Projects
+**Homework 2:** Regression and Optimization  
+- Ridge Regression & Lasso on **E2006-tfidf dataset**, with cross-validation and error curve analysis.  
+- Implemented **SGD for Logistic Regression** with step decay, cosine decay, and polynomial decay learning rate schedules:contentReference[oaicite:1]{index=1}.  
 
-*Constraints:*
-- Maximum memory usage: 1 GB RAM
-- Response time: 5 seconds per sample
-- Timeouts will be considered evasions.
+**Homework 3:** Logistic Regression & MNIST Classification  
+- Proved convexity of regularized logistic regression objective.  
+- Derived Lagrange dual for distributionally robust optimization.  
+- Built **multi-class logistic regression model** for MNIST with minibatch SGD, tested weight decay, and analyzed overfitting:contentReference[oaicite:2]{index=2}.  
 
-**Attacker's Challenge Specifications:**
+---
 
-*Deliverable:*
-- Evasive malware binaries designed to bypass detection models.
+### 4. Natural Language Processing Projects (CSCE638 NLP, Spring 2025)
+- **Tokenization & Byte-Pair Encoding:** Built subword vocabulary from text corpus.  
+- **Positional Encoding:** Constructed and visualized sinusoidal positional encodings.  
+- **Advanced Text Classification:** Built CNN and fine-tuned BERT on Yelp Reviews dataset with GloVe embeddings.  
+- **Seq2Seq with LSTM:** Implemented encoder-decoder with attention for Quora Question Pairs, with GloVe initialization and text generation:contentReference[oaicite:3]{index=3}.  
 
-*Goals:*
-- Evade as many models as possible.
+---
 
-*Constraints:*
-- Maximum file size for appended data: 5MB
-- The evasive sample's execution in the sandbox must be equivalent to the original sample.
+### 5. Software Security Projects
+*Coursework projects using C, C++, and Python.*  
+- **Buffer Overflow & ROP Attacks:** Exploited vulnerable C programs to hijack control flow.  
+- **Format-String Attacks:** Crafted malicious `printf` payloads for information leaks.  
+- **Memory Protection (Bound Checking, CFI, SFI):** Implemented runtime defenses.  
+- **Fuzz Testing & Symbolic Execution:** Used fuzzers and symbolic execution tools to find vulnerabilities.  
+- **Malware Analysis:** Reverse-engineered and analyzed malicious binaries:contentReference[oaicite:4]{index=4}.  
 
-*Project Stages:*
+---
 
-   - Black Box Defense: Teams developed machine learning models without any knowledge of the attack strategies used by the attackers. These models were then tested against a variety of malware samples to measure their effectiveness.
+### 6. Configuring Hadoop Cluster and Executing Big Data Applications with Apache Spark
+- Configured a Hadoop cluster using HDFS and Spark.  
+- Implemented small-scale big data applications for distributed storage and parallel computation.  
 
+---
 
-   - White Box Defense: Teams refined their models with full knowledge of the attack strategies. This allowed for more targeted improvements in detection capabilities.
+### 7. User Folder Migration
+- Built a **migration system** for 200+ enterprise clients, transitioning thousands of user reports, graphs, and imports into a new structure.  
+- Used **Blue-Green deployment** strategy to ensure zero downtime.  
 
-   - Black Box Attack: Teams created evasive malware binaries without knowing the specifics of the defense models. The goal was to evade as many detection models as possible with these binaries.
+---
 
-   - White Box Attack: Teams developed evasive strategies with full knowledge of the defense models' architecture and methods. This stage tested the limits of model robustness and adaptability.
+### 8. Enhancing Vending Machine Application with Microservices and Containerization
+- Refactored vending machine app into **microservices**.  
+- Used **Docker** for scalable deployment and management.  
 
-*Team Composition and Challenge Execution:*
-- Seven teams participated, each consisting of three members.
-- The challenge required a balance of innovation in machine learning model development and creativity in devising effective evasion techniques.
+---
 
-*Results:*
-The challenge successfully demonstrated the dynamic interplay between malware detection and evasion tactics, highlighting the importance of continuous improvement in cybersecurity measures. Teams showcased their ability to develop sophisticated models and adaptive evasion strategies within the given constraints, contributing valuable insights to the field of machine learning-based malware detection.
+### 9. AI-Powered Reversi Game
+- Designed an AI-driven Reversi game with **Java Swing GUI**.  
+- Implemented **Alpha-Beta Pruning** algorithm for strategic computer moves.  
 
-*Project URL:* [Machine Learning-Based Malware Detection and Attack Challenge](https://github.com/gnat-n/-ml-based-malware-defender-and-attack)
+---
 
-### 2. Configuring Hadoop Cluster and Executing Big Data Applications with Apache Spark
-***
-- This project aims to configure a Hadoop cluster with Apache Hadoop as the underlying file system and Apache Spark as the execution engine. The main objective is to develop and run various small-scale applications utilizing the power of Hadoop and Spark. The project involves setting up the necessary infrastructure, configuring the cluster, and implementing several applications to leverage the capabilities of these technologies for handling big data efficiently.
+### 10. 4-bit Computer System Design
+- Designed a **SAP-based 4-bit computer system**.  
+- Implemented **28 assembly instructions** and simulated in Proteus Design Suite.  
 
-### 3. User Folder Migration
-***
-- Created a user folder migration functionality enabling 200 clients to seamlessly transition their thousands of user reports, graphs, imports, and other user components to a new folder structure. This transition occurred without any disruptions to ongoing scheduled tasks, batch processes, and favorite items. 
+---
 
-- Employing a Blue-green deployment strategy, we initially launched the feature within our internal system, meticulously assessing its impact due to its magnitude. Subsequently, we executed a gradual release for clients, ensuring a controlled and effective integration.
+### 11. Hall Management System
+- Built a hall office management system with:  
+  - **Desktop app:** Java Swing GUI.  
+  - **Web app:** Laravel + MySQL backend.  
+- Won **2nd Runner-up** at NSysS 2016 project show.  
 
-### 4. Enhancing Vending Machine Application with Microservices and Containerization
-***
-- This project uses microservices architecture and containerization to improve a vending machine application. By replacing the weather selection mechanism, creating a new microservice for beverage preferences, and updating relevant functions, the project aims to optimize the vending machine application. The utilization of containerization, specifically Docker, facilitates seamless deployment and management of the application, enabling easier scaling and maintenance.
+---
 
-### 5. AI-Powered Reversi Game
-***
-- This project focuses on developing an Artificial Intelligence (AI)-based Reversi game, featuring a visually appealing and interactive game interface created using Java Swing. The game employs the powerful alpha-beta pruning algorithm, enabling the computer player to intelligently determine its next move, resulting in a challenging and strategic gameplay experience for users.
-
-### 6. 4-bit Computer System Design
-***
-- We designed a 4-bit Computer System based on Simple As Possible (SAP) architecture. The computer system could run 28 assembly instructions. I was involved in designing the assembly instructions and implementing the system in Proteus Design Suite for simulating the system.
-
-### 7. Hall Management System
-***
-- The project involved the development of a comprehensive system for the university hall office, which included a desktop application with a Java Swing interface for efficient information management. In addition, a web application was created using the Laravel framework ensuring seamless accessibility and advanced features. Both applications were integrated with a MySQL database to ensure reliable data storage and retrieval, facilitating streamlined administrative processes and enhancing overall efficiency.
-
-### 8. 29 Card Game
-***
-- The project involved implementing a 29-card game using Java Multi-threading, enabling concurrent execution of multiple tasks and efficient gameplay. The game’s server-client communication was implemented using Java Socket Programming, ensuring reliable and real-time interaction between players. This approach facilitated seamless communication and synchronization between the game server and connected clients, enhancing the overall multiplayer gaming experience.
+### 12. 29 Card Game
+- Multiplayer **29 card game** built using **Java multithreading + socket programming**.  
+- Implemented server-client model for real-time gameplay.  
